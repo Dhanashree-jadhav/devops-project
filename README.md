@@ -22,11 +22,18 @@ Learn Git for DevOps with branches, pull requests, tags, and scripts.
         git push -u origin feature/your-feature
 
 3 Submit pull requests to dev on GitHub.
+<br>
                 devops-project/
+                <br>
             ├── scripts/
+            <br>
             │   ├── deploy.sh   # Deployment script
+            <br>
             │   └── logging.sh  # Logging script
+            <br>
             ├── .gitignore      # Ignores junk files
+            <br>
             └── README.md       # This guide
+            <br>
 
     
